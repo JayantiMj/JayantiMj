@@ -1,3 +1,4 @@
+![logo](https://github.com/JayantiMj/JayantiMj/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Jayanti Mistry</h1>
 <h3 align="center">A passionate UI/UX Designer from India India</h3>
 <img align="right" alt="designer&coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
