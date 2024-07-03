@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **my design with a software developer**
 
-- 💬 Ask me about **userflow,wireflame,prototype,sketched wor**
+- 💬 Ask me about **userflow,wireflame,prototype,sketched work**
 
 - 📫 How to reach me **jayantimistry@10123**
 
